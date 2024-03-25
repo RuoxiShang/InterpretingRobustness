@@ -3,7 +3,8 @@ layout: home
 title: Introduction
 nav_order: 1
 ---
-## Wecome to the class website for Winter 2024 Interpreting Robustness in Large Language Models Directed Research Group (DRG)!
+## Interpreting Robustness in Large Language Models Directed Research Group (DRG)
+### Winter 2024
 
 Instructors: [Adam Hyland], [Ruoxi (Anna) Shang], [Dr. Brock Craft]
 
